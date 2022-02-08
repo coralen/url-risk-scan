@@ -1,0 +1,6 @@
+domain,is_safe,total_vote,category,timestamp
+www.nytimes.com,safe,1,news,2022-02-08 13:57:10.456854
+theteflacademy.co.uk,risk,0,business,2022-02-08 13:57:11.468736
+fourthgate.org,risk,1,"Information Technology, Suspicious",2022-02-08 13:57:12.169425
+vegweb.com,safe,0,Restaurants/Food,2022-02-08 13:57:12.998872
+tailormed.co,safe,0,Health,2022-02-08 13:57:13.643901
